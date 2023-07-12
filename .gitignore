@@ -1,0 +1,4 @@
+entorno
+*.pyc
+local.py
+db.slqlite3
